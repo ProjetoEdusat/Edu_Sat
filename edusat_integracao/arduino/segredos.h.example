@@ -1,0 +1,10 @@
+#pragma once
+
+// Copie este arquivo para "segredos.h".
+// O arquivo segredos.h real está no .gitignore.
+
+#define WIFI_SSID "NTL_09396"
+#define WIFI_PASSWORD "jl22za38"
+
+#define PYTHON_HOST "192.168.137.1"
+#define PYTHON_PORT 5000

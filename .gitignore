@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+segredos.h
+
+# Temporary audio
+*.mp3
+*.wav
+temp/
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
